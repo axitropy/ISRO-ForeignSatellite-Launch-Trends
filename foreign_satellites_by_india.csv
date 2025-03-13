@@ -1,0 +1,37 @@
+no,name,country,launch_date,launch_mass,launch_vehicle,remarks,year
+1,DLR-Tubsat,Germany,1999-05-26,45.0,PSLV-C2,ISRO's 1st commercial launch with foreign satellites as payload. India's Oceansat-1 was also launched. This was PSLV's 3rd launch overall.,1999
+3,BIRD,Germany,2001-10-22,92.0,PSLV-C3,ISRO's 2nd commercial launch.,2001
+5,Lapan-TUBsat,Indonesia,2007-01-10,56.0,PSLV-C7,,2007
+7,AGILE,Italy,2007-04-23,352.0,PSLV-C8,PSLV's 11th flight.,2007
+8,TecSAR,Israel,2008-01-21,295.0,PSLV-C10,PSLV's 12th launch.,2008
+9,CAN-X2,Canada,2008-04-28,3.5,PSLV-C9,"ISRO launched 10 satellites, of which 8 were foreign.[7]",2008
+17,UWE-2,Germany,2009-09-23,1.0,PSLV-C14,"ISRO launched 7 satellites, of which 6 were foreign.[8]",2009
+23,Alsat-2A,Algeria,2010-07-12,116.0,PSLV-C15,"ISRO launched 5 satellites, of which 3 were foreign.[9]",2010
+26,VESSELSAT-1,Luxembourg,2011-01-12,28.7,PSLV-C18,"ISRO launched 4 satellites, of which 1 was foreign.[10]",2011
+27,X-SAT,Singapore,2011-04-20,106.0,PSLV-C16,"ISRO launched 3 satellites, of which 1 was foreign.[11]",2011
+28,SPOT-6,France,2012-09-09,712.0,PSLV-C21,PSLV's 22nd flight.,2012
+30,Sapphire,Canada,2013-02-25,148.0,PSLV-C20,"ISRO launched 7 satellites, of which 6 were foreign.[12]",2013
+36,SPOT-7,France,2014-06-30,714.0,PSLV-C23,PSLV's 10th flight in 'core-alone' configuration (i.e. without the use of solid strap-on motors).,2014
+41,UK-DMC 3A,United Kingdom,2015-07-10,447.0,PSLV-XL C28[13],"India's first exclusive foreign satellites launch, all the 5 payloads were from  United Kingdom. At the time it was the heaviest commercial mission (1439 kg) successfully accomplished using a launch vehicle assembled by ISRO.",2015
+46,LAPAN-A2,Indonesia,2015-09-28,76.0,PSLV-C30,"Commercial satellites from  United States were launched on an Indian rocket for the first time. Astrosat, India's first dedicated astronomy satellite, was also launched on this flight.[14]",2015
+52,TeLEOS-1,Singapore,2015-12-16,400.0,PSLV-C29,Exclusive commercial launch of 6 Singaporean satellites.,2015
+58,LAPAN A3,Indonesia,2016-06-22,120.0,PSLV-XL C34,"ISRO launched 20 satellites (including 3 Indian satellites) aboard PSLV-C34, the highest number of satellites that the agency has launched aboard a single flight.[15][16]",2016
+75,AlSAT-1N,Algeria,2016-09-26,7.0,PSLV-G C35,"ISRO launches 8 satellites in its 15th flight of the 'XL' version of the PSLV - 5 foreign satellites and 3 Indian satellites (SCATSAT-1, PRATHAM and PISAT).[17]",2016
+80-167,88 x Flock-3p,United States,2017-02-15,,PSLV-XL 37,"ISRO launched 104 satellites, of which 3 were Indian satellites. It was[18] the largest number of satellites launched on a single flight by any space agency.[19]",2017
+181,Pegasus,Austria,2017-06-23,2.0,PSLV-C38,"ISRO launched 31 satellites, of which 29 were foreign.[20]",2017
+210,Telesat Phase-1 LEO,Canada,2018-01-12,168.0,PSLV-XL C40,"ISRO Launched 31 satellites, of which 28 were foreign.[22]",2018
+238,NovaSAR,United Kingdom,2018-09-16,445.0,PSLV-CA C42,"Exclusive commercial launch of two foreign satellites belonged to Surrey Satellite Technologies Ltd (SSTL),  United Kingdom. The satellites were put into Sun-synchronous orbit under a commercial arrangement with Antrix Corp Ltd, the commercial arm of the ISRO.",2018
+240,Centauri -1,Australia,2018-11-29,10.0,PSLV-CA C43,-,2018
+270,Bluewalker 1,Lithuania,2019-04-01,10.0,PSLV-QL C45,,2019
+298,Meshbed,United States,,4.5,PSLV-XL C47,,2019
+311,Izanagi (QPS-SAR),Japan,,,PSLV-QL C48,,2019
+320,R2,Lithuania,,,PSLV-DL C49,Technology demonstration satellite.,2020
+329,Amazônia-1,Brazil,,637.0,PSLV-DL C51,First Earth observation satellite entirely developed by Brazil.,2021
+343,DS-EO,Singapore,,365.0,PSLV-CA C53,,2022
+346-381,36 × OneWeb,United Kingdom,,,LVM 3 M2,First commercial launch of LVM 3.,2022
+382-385,4 × Astrocast,United States,,17.92,PSLV-XL C54,"Satellites Developed by Spaceflight,United States For Astrocast,Switzerland",2022
+387,Janus-1,United States,,11.5,SSLV-D2,First Successful launch of  SSLV,2023
+388-423,36 × OneWeb,United Kingdom,,,LVM 3 M3,Second commercial launch of LVM 3.It is the heaviest payload that is launched by a LVM 3 and ISRO to date.,2023
+424,TeLEOS-2,Singapore,,741.0,PSLV-CA C55,57th Mission of PSLV,2023
+426,DS-SAR,Singapore,,352.0,PSLV-CA C56,58th PSLV Mission. Commercial Launch for Singapore's DS-SAR Satellite and 6 Co-Passenger satellites from Singapore.,2023
+433,PROBA-3,European Union,,,PSLV-XL C59,,2024

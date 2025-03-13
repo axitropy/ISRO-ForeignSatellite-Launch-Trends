@@ -1,0 +1,1 @@
+[Amshu_Data Analysis on the Foreign Satellites Launched by ISRO_Report.pdf](https://github.com/user-attachments/files/19223111/Amshu_Data.Analysis.on.the.Foreign.Satellites.Launched.by.ISRO_Report.pdf)
